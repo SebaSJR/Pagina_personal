@@ -1,0 +1,47 @@
+/*
+Cuando una regla empieza con (.) se esta refiriendo a un Class 
+ */
+.Container{
+    color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    background-color: beige;
+    width: 450px;
+    
+}
+
+.container.bloque-1.talento.tech{
+    color: rgb(178, 86, 147);
+    background-color: rgb(117, 210, 144);
+    font-size: large;
+    text-align: right;
+    width: 600px;
+}
+
+.container.bloque-2.talento.tech{
+    color: rgb(178, 86, 147);
+    background-color: rgb(117, 192, 210);
+    font-size: large;
+    text-align: right;
+    width: 600px;
+}
+
+.container.bloque-3.talento.tech{
+    color: rgb(0, 0, 0);
+    background-color: rgb(107, 43, 88);
+    font-size: large;
+    text-align: right;
+    width: 600px;
+}
+
+h1{
+    color: rgb(65, 68, 129);
+}
+
+.container {
+    width: 800px;
+    columns: 3 200px;
+    }
+
+
+
